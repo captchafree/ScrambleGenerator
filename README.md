@@ -11,7 +11,7 @@ A simulated Rubik's Cube is generated and all of the corners and edges are remov
 
 ## Step 2
 
-The corner and edge pieces are randomly placed back into the core, resulting in a Rubik's Cube in a random state. This is the state the Rubik's Cube will be in when the generated scramble is applied to a solved Rubik's Cube.
+The corner and edge pieces are randomly placed back into the core, resulting in a Rubik's Cube in a random state. This is the state a Rubik's Cube will be in when the generated scramble is applied to a solved Rubik's Cube.
 
 ![Reassembled Rubik's Cube](https://static1.squarespace.com/static/54f2df67e4b079e94c291e4f/t/55150c87e4b0392be71ae4c6/1427442824922/scrambled_rubik%27s_cube?format=500w "Reassembled Rubik's Cube")
 
